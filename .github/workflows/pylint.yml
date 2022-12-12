@@ -1,9 +1,10 @@
 name: Pylint
 
-push:
-  branches:
-    - stable
-    - staging
+on:
+  push:
+    branches:
+      - stable
+      - staging
 
 jobs:
   build:
