@@ -1,3 +1,3 @@
 # ssc
 
-This is the SSC project
+This is the SSC project.
